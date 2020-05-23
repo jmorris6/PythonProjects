@@ -1,0 +1,5 @@
+Bjarne's Game Store 
+ 
+Game            Quantity      Cost Total
+
+Game: l;aksdjfl Quantity: 2996 Cost: 23 Total: 68908 

@@ -1,0 +1,15 @@
+from Complex import Complex
+
+complex1 = Complex()
+complex2 = Complex(3, 2.8)
+print("Complex 1: " + str(complex1))
+print("Complex 2: " + str(complex2))
+complex1 = Complex(5, -1.2)
+print("Complex 1: " + str(complex1))
+print("Complex 2: " + str(complex2))
+print(str(complex1) + " + " + str(complex2) + " = " + str(complex1+complex2))
+print(str(complex1) + " - " + str(complex2) + " = " + str(complex1-complex2))
+print(str(complex1) + " * " + str(complex2) + " = " + str(complex1*complex2))
+print(str(complex1) + " / " + str(complex2) + " = " + str(complex1/complex2))
+print("Conjugate of : " + str(complex1) + " = " + str(complex1.conj()))
+print("Absolute Value of : " + str(complex2) + " = " + str(complex2.abs()))

@@ -1,0 +1,39 @@
+****************
+Ab3456789!?
+
+Meets all requirements
+********************************
+Kim!
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+********************************
+jack
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+********************************
+ReallyLongPassword
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+********************************
+Ab3456789!?
+
+Meets all requirements
+********************************
+Kim!
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+********************************
+jack
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+********************************
+ReallyLongPassword2
+
+rule 3 failed: must have at least two punctuation characters
+rule 4 failed: must have at least two numeric chartacters
+****************
